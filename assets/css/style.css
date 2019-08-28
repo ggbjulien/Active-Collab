@@ -65,7 +65,7 @@ body {
 }
 
 .navHeader__button :first-child {
-    background-color: blue;
+    background-color: #1E93CC;
     border: 1px solid black;
     border-radius: 5px 0 0 5px;
     padding: 5px 15px 5px 10px;
@@ -193,7 +193,7 @@ body {
 
 .sectionModule1__button {
     grid-column: 2 / 3;
-    background-color: #2D7FD2;
+    background-color: #1E93CC;
     width: 20%;
     justify-self: center;
     color: white;
@@ -298,7 +298,7 @@ body {
 }
 
 .sectionModule3__left :nth-child(6) {
-    background-color: #2D7FD2;
+    background-color: #1E93CC;
     align-self: center;
     color: white;
     border: 1px solid black;
@@ -310,7 +310,7 @@ body {
 }
 
 .sectionModule3__right :nth-child(6) {
-    background-color: #2D7FD2;
+    background-color: #1E93CC;
     align-self: center;
     color: white;
     border: 1px solid black;
